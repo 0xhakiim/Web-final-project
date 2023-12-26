@@ -1,2 +1,2 @@
 # Web-final-project
-Drop the files associated with your roles in here
+in here you will find our group's final project for office and web files feel free to inspect them
